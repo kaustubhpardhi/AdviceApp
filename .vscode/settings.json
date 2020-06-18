@@ -1,0 +1,6 @@
+{
+    "launch": {
+    "git.enabled": true,
+    "git.path":"C:\\git.exe"
+    }
+}
